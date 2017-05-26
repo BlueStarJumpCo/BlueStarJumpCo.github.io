@@ -18,7 +18,7 @@ email: bluestarjumpco@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   We are a company that offers jump houses ad activities for kids. We speak both spanish and english and are used to dealing with kids. Hey Yoli <3 by Chucho
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bluestarjumpco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bluestarjump
 github_username:  BlueStarJumpCo
 
